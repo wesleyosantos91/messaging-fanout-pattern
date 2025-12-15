@@ -3,7 +3,7 @@
 # 📨 Messaging Fanout Pattern
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC? logo=terraform)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
